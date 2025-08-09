@@ -2,7 +2,7 @@
 public class AdminBooks_jsp extends HttpJspBase {
 
 //
-// x222 modificacion
+// x222 modificaciona
 //
 //   Filename: Common.jsp
 //   Generated with CodeCharge  v.1.2.0
@@ -781,5 +781,6 @@ if ( conn != null ) conn.close();
   }
 }
  */
+
 
 
